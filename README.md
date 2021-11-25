@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "320px" src="https://cdn.kapwing.com/final_619deb3a33cdfb00c1db573c_35890.gif" alt="cover" />
+<img height = "250px" width = "100%" src="Pink and Red Motivation and Inspirational LinkedIn Banner.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
