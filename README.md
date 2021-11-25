@@ -2,6 +2,8 @@
 <img height = "250px" width = "100%" src="Pink and Red Motivation and Inspirational LinkedIn Banner.png" alt="cover" />
 </div>
 
+<hr>
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
