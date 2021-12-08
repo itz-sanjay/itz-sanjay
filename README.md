@@ -46,11 +46,11 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/itzsanjay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://itz-sanjay.github.io/CV/'> <img width = '32px' align= 'center' src="https://media1.giphy.com/media/Sqlj82Xy4eZKSU9iVM/200w.webp?cid=ecf05e47e2yipmtsypyxo0i897ucrspt2wlicvz5bfp5nbfg&rid=200w.webp&ct=s"/></a> 
-<a href = 'https://www.github.com/itz-sanjay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> <br> <br>
+ <br> <br>
 
 
-
-<!-- <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2> -->  
+<!-- <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2> -->
+  
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=itz-sanjay&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" width = '50%' />
   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-sanjay&theme=dark&show_icons=true&locale=en&layout=compact" width = '50%' height = '130vh' alt="itz-sanjay"  />
