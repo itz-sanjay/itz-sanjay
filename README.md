@@ -40,7 +40,6 @@
 <a href= "https://getbootstrap.com" target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= "https://www.figma.com/" target="_blank"target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <a href= "https://git-scm.com/" target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= "https://github.com/" target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= "https://www.cprogramming.com/" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 
 
