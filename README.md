@@ -18,7 +18,7 @@
   
  <img width="50%" align="right" alt="Github" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47eizeatvz7743uqjf5gbjc081zbrj2hrsvheiz99f&rid=giphy.gif&ct=g" /> 
 
-- 🔭 I’m currently working on **Movie Info app, Food ordering System (Front End)**
+- 🔭 I’m currently working on **Movie Info app, Food ordering System**
 
 - 🌱 I’m currently learning **Full Stack**
 
