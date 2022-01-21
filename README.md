@@ -6,19 +6,24 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=itz-sanjay.itz-sanjay)
 
 </p>
 <div size='20px'> Hey there! Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   
-</div>    
-
-<h2> About Me </h2>
+</div><br><br>
   
- <img width="50%" align="right" alt="Github" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47eizeatvz7743uqjf5gbjc081zbrj2hrsvheiz99f&rid=giphy.gif&ct=g" /> 
+  
+<div align="center">
+<img src="https://gpvc.arturio.dev/itz-sanjay"></img>
+</div>
 
-- 🔭 I’m currently working on **Movie Info app, Food ordering System**
+
+<h1> About Me 🤖</h1>
+  
+ <img width="40%" align="right" alt="Github" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47eizeatvz7743uqjf5gbjc081zbrj2hrsvheiz99f&rid=giphy.gif&ct=g" /> 
+
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **Full Stack**
 
@@ -28,39 +33,51 @@
   
 - 💬 I’m open for **Internships**
   
-- ✨ My other interests are **music, movies, games and astronomy**
-  
 - 📫 How to reach me **itzsanjay01@gmail.com**
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= "https://jquery.com/" target="_blank"> <img width ='32px' src ='https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png'> </a>
-<a href= "https://www.w3.org/html/" target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= "https://www.w3schools.com/css/" target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= "https://getbootstrap.com" target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= "https://www.figma.com/" target="_blank"target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= "https://git-scm.com/" target="_blank"target="_blank"target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= "https://www.cprogramming.com/" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/itzsanjay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://itz-sanjay.github.io/CV/'> <img width = '32px' align= 'center' src="https://media1.giphy.com/media/Sqlj82Xy4eZKSU9iVM/200w.webp?cid=ecf05e47e2yipmtsypyxo0i897ucrspt2wlicvz5bfp5nbfg&rid=200w.webp&ct=s"/></a> 
- <br> <br>
-
-
-<!-- <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2> -->
+<br>
   
+ <h1>Technical Skills 🛠</h1>
+
+<p align="center"> 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="JQuery" src="https://img.shields.io/badge/-JQuery-aliceblue.svg?&style=for-the-badge&logo=jquery&logoColor=black" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-maroon?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+</p>
+
 <div align="center">
-  
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=itz-sanjay&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" width = '55%' />
-  
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-sanjay&theme=dark&show_icons=true&locale=en&layout=compact" width = '50%' height = '130vh' alt="itz-sanjay"  />
-  
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=itz-sanjay&theme=dark" width = '55%' alt="itz-sanjay"/>
-  
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+   <img alt="" src="https://github-readme-stats.vercel.app/api?username=itz-sanjay&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" width = '55%' />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itz-sanjay&theme=dark" width = '55%' alt="itz-sanjay"/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark) 
+</div>
+
+<h1>Connect with me 🤝🏼</h1>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/itz-sanjay/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Nishant-Bhosale" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://itz-sanjay.github.io/CV/" target="_blank">
+<img src=https://img.shields.io/badge/%F0%9F%93%9C-CV-yellow?&style=for-the-badge alt=CV style="margin-bottom: 5px;" />
+</a>
+    
+</div> 
   
-  </div>
+<h1> Some Programming Humor for you 😉<h1>
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=onedark"></img>
+</div> 
+<hr>
+<h4>Leave a ⭐ from <a href="https://github.com/itz-sanjay/itz-sanjay">here</a> if you like 😁</h4>
