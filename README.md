@@ -70,9 +70,6 @@
 <a href="https://github.com/itz-sanjay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://itz-sanjay.github.io/CV/" target="_blank">
-<img src=https://img.shields.io/badge/%F0%9F%93%9C-CV-yellow?&style=for-the-badge alt=CV style="margin-bottom: 5px;" />
-</a>
     
 </div> 
   
