@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjay 👋
 
-I'm a software engineer who loves coding, solving problems, and creating technology to elevate people. I enjoy learning about new tech to contribute to projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/itzsanjay/) to explore more about my journey.
+A person who is passionate about coding, troubleshooting challenges, and finds joy in exploring new technologies and using them to make meaningful contributions to various projects.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=itz-sanjay&show_icons=true&theme=radical" />
 
